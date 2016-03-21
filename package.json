@@ -4,7 +4,8 @@
   "description": "Aplicatie management cumparare paine.",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('Hello world from P.I.T.A.')"
+    "test": "console.log('Hello world from P.I.T.A.')",
+    "start": "node Server/index.js"
   },
   "repository": {
     "type": "git",

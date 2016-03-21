@@ -30,7 +30,7 @@ Se selecteaza din meniu *Commit > Stage to Commit* sau *Ctrl+T* pentru a pregati
 3. In aplicatie, se selecteaza tab-ul *Changes*, unde vor apare ultimele modificari din branch.
 4. Dupa ce se completeaza *Summary* si *Description*, se da click pe *Commit to {nume branch}*.
 5. La finalizarea commitului, se da click pe butonul *Publish*, in cazul in care branch-ul nu exista inca in repository in GitHub, sau *Sync*, daca deja s-a creat branchul in GitHub si exista commituri in el.
-6. In cazul in care s-a facut intre timp de catre altcineva un alt commit pe branch, cand se face *Sync*, va apare o avertizare ca exista modificari necommitate. Inainte trebuie sa se faca commit la modificarile locale, dupa care se face *Sync*, trebuiesc rezolvate conflictele si dupa aceea inca un commit pe branch.
+6. In cazul in care s-a facut intre timp de catre altcineva un alt commit pe branch, cand se face *Sync*, va apare o avertizare ca exista modificari necommitate. In cazul asta trebuie sa se faca commit la modificarile locale, dupa care se face *Sync*. In continuare trebuiesc rezolvate conflictele si dupa aceea inca un commit pe branch si sync pe remote.
 
 
 ## Express Hello World

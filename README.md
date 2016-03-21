@@ -1,7 +1,7 @@
 # P.I.T.A.
 Sistem integrat de gestiune al pitzii.
 
-## Modul de lucru
+## Instalare si configurare proiect de pe GutHub
 
 1. Se instaleaza [GitHub Desktop](https://desktop.github.com/) si se face sign in cu contul propriu de GitHub.
 2. In aplicatia desktop se cloneaza proiectul: click pe + si selectare Clone.

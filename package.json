@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/flipsnack-projects/P.I.T.A./issues"
   },
-  "homepage": "https://github.com/flipsnack-projects/P.I.T.A.#readme"
+  "homepage": "https://github.com/flipsnack-projects/P.I.T.A.#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }

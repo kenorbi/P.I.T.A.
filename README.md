@@ -20,7 +20,9 @@ Sistem integrat de gestiune al pitzii.
 4. Click pe butonul Clone - se creeaza folderul specificat mai sus si se descarca fisierele proiectului.
 5. Dupa ce se fac modificari la fisiere, vor apare modificarile in panelul *Unstaged Changes* (daca nu se vad modificarile cu tasta F5 se face refresh la aplicatie).
 Se selecteaza din meniu *Commit > Stage to Commit* sau *Ctrl+T* pentru a pregati modificarile pentru commit si acestea vor apare in panelul *Staged Changes (Will Commit)*.
-6. Dupa ce se completeaza mesajul pentru commit, click pe butonul Commit din partea de jos a ferestrei.
+6. Dupa ce se completeaza mesajul pentru commit, click pe butonul *Commit* din partea de jos a ferestrei.
+7. Dupa ce s-a realizat commitul, modificarile dispar din panelul *Staged Changes* si se da click pe butonul Push din partea de jos a ferestrei.
+8. In cazul in care nu sunteti logat, aplicatia va cere pe rand numele utilizator si parola de la contul GitHub.
 
 ### Lucrul cu branchuri
 

@@ -37,7 +37,7 @@ Se selecteaza din meniu *Commit > Stage to Commit* sau *Ctrl+T* pentru a pregati
 ## Setup Vagrant - MEAN stack box
 1. Se instaleaza [Vagrant](https://www.vagrantup.com/) 
 si [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. Se copiaza fisierul `Vagrantfile` in director-ul root. 
+2. Se copiaza fisierul [`Vagrantfile`](smb://nelu/Public/Resurse/FlipSnack/meanstack/Vagrantfile) in director-ul root.
 [Exemplu](http://screencast.com/t/gknS6Av7n52).
 3. Se editeaza fisierul `Vagrantfile` astfel:
     * se cauta linia la care se gaseste textul 

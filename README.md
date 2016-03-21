@@ -27,7 +27,7 @@ Se selecteaza din meniu *Commit > Stage to Commit* sau *Ctrl+T* pentru a pregati
 ### Lucrul cu branchuri
 1. In GitHub Desktop se creeaza un branch nou cu click pe butonul New branch si completarea numelui.
 2. Se fac modificari pe fisierele din branch.
-3.
+6. In cazul in care s-a facut de intre timp catre altcineva un alt commit pe branch, se foloseste *Sync* pentru a sincroniza localul cu branchul remote dupa care se face *Commit* cu modificarile de pe local.
 
 
 ## Express Hello World

@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/flipsnack-projects/P.I.T.A.#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "bower": "^1.7.7",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1"
   }
 }

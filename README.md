@@ -25,8 +25,3 @@ Se selecteaza din meniu *Commit > Stage to Commit* sau *Ctrl+T* pentru a pregati
 8. In cazul in care nu sunteti logat, aplicatia va cere pe rand numele utilizator si parola de la contul GitHub.
 
 ### Lucrul cu branchuri
-
-
-## Express Hello World
-
-Pentru a porni serverul Express, ruleaza `node app.js` in folderul proiectului.

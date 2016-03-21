@@ -1,5 +1,5 @@
 var app = angular.module('Pita', []);
 
 app.controller('MainCtrl', function MainCtrl() {
-  alert('alert from angular controller');
-})
+  document.write('Hello world from angular controller!');
+});

@@ -66,4 +66,3 @@ si [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 4. Se navigheaza in consola (cmd pe win, terminal pe mac) in directorul
 root ales la pasul `1.`
 5. Se ruleaza comanda `vagrant up`
->>>>>>> origin/master

@@ -25,6 +25,9 @@ Se selecteaza din meniu *Commit > Stage to Commit* sau *Ctrl+T* pentru a pregati
 8. In cazul in care nu sunteti logat, aplicatia va cere pe rand numele utilizator si parola de la contul GitHub.
 
 ### Lucrul cu branchuri
+1. In GitHub Desktop se creeaza un branch nou cu click pe butonul New branch si completarea numelui.
+2. Se fac modificari pe fisierele din branch.
+3.
 
 
 ## Express Hello World

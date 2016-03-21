@@ -34,13 +34,7 @@ Se selecteaza din meniu *Commit > Stage to Commit* sau *Ctrl+T* pentru a pregati
 7. Dupa ce s-au facut si commitat toate modificarile necesare in branch, se poate face Pull request si se lasa un comment.
 8. Dupa ce se incheie merge-ul cu branchul master, se poate sterge branchul.
 
-
-## Express Hello World
-
-Pentru a porni serverul Express, ruleaza `node app.js` in folderul proiectului.
-
 ## Setup Vagrant - MEAN stack box
-
 1. Se instaleaza [Vagrant](https://www.vagrantup.com/) 
 si [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. Se copiaza fisierul `Vagrantfile` in director-ul root. 
@@ -54,3 +48,4 @@ si [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 4. Se navigheaza in consola (cmd pe win, terminal pe mac) in directorul
 root ales la pasul `1.`
 5. Se ruleaza comanda `vagrant up`
+>>>>>>> origin/master

@@ -1,0 +1,28 @@
+{
+  "name": "pita",
+  "description": "Sistem integrat de gestiune a pitii",
+  "main": "bin/www.js",
+  "authors": [
+    "FlipSnack Team"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/flipsnack-projects/P.I.T.A.",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.3",
+    "angular-route": "^1.5.3"
+  }
+}

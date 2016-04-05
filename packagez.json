@@ -1,0 +1,30 @@
+{
+  "name": "pita",
+  "version": "1.0.0",
+  "description": "Aplicatie management cumparare paine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello world from P.I.T.A.')",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flipsnack-projects/P.I.T.A..git"
+  },
+  "author": "FlipSnack Dev Team",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/flipsnack-projects/P.I.T.A./issues"
+  },
+  "homepage": "https://github.com/flipsnack-projects/P.I.T.A.#readme",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "mongoose": "^4.4.8",
+    "socket.io": "^1.4.5"
+  },
+  "engines": {
+    "node": "5.6.0"
+  }
+}
